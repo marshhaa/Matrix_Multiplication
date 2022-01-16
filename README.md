@@ -1,2 +1,3 @@
 # Matrix_Multiplication
-Not worth reading
+
+This is program in C to calculate multiplication of two matrices of N x N rows and columns.

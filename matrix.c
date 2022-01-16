@@ -3,7 +3,7 @@
 int main()
 {
     int i,j,k,r1,r2,c1,c2,sum=0;
-    int A[5][5],B[5][5],C[5][5];
+    int A[100][100],B[100][100],C[100][100];
 
     printf("Enter number of rows and columns for matrix 1\n");
     scanf("%d%d",&r1,&c1);
